@@ -1,7 +1,7 @@
 blog_theme: light # Or use dark
 name: Chalk
 paginate: 25
-url: https://dxmuses.github.io/github-pages-with-jekyll (format: https://example.com)
+url: https://dxmuses.github.io/github-pages-with-jekyll
 title: dx muses 
 author: dxmuses
 #email: your-email@domain.com
