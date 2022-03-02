@@ -1,6 +1,9 @@
+blog_theme: light # Or use dark
+name: Chalk
+paginate: 25
+url: https://dxmuses.github.io/github-pages-with-jekyll (format: https://example.com)
 title: dx muses 
 author: dxmuses
-theme: jekyll-klise
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
     Hey there! Welcome to my blog! This site is currently in the making.
