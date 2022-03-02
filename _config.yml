@@ -1,7 +1,4 @@
-blog_theme: dark # Or use light
-name: Chalk
-paginate: 25
-url: https://dxmuses.github.io/github-pages-with-jekyll
+remote_theme: pmarsceill/just-the-docs
 title: dx muses 
 author: dxmuses
 #email: your-email@domain.com
