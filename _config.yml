@@ -1,5 +1,6 @@
 title: Hello World!
 author: dxmuses
+theme: minima
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
     Hey there! Welcome to my blog! This site is currently in the making.
